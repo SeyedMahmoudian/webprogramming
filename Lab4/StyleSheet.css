@@ -1,0 +1,40 @@
+<head>
+<style>
+	font-family: Verdana;
+	font-size: 12px;
+	background-color: lightgrey;
+	text-align: center;
+
+#body{	
+	margin: 0;
+	padding: 0;		
+}
+
+#h1 {
+	
+	color:rgb(255,192,203);
+}
+#p {
+	padding: 20px;
+}
+ #header {
+ 
+ 	color:rgb(255,192,203);
+ 	
+ }
+ #content {
+	color: rgb(255,0,0);
+}
+  #menu {
+ 		color:rgb(128,0,128);
+ 	
+ }
+
+ #footer {
+ 	
+ 	color : rgb(128,0,128);
+ 	
+	width = 50%;
+ }
+
+
